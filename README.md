@@ -1,10 +1,10 @@
 ## WHO IS ADAM?🙂....a little about me.
 Hi there👋..My name is Adam John Clement. i'm a Data Analyst based in Dar es Salaam,Tanzania with a background in Medical Laboratory Sciences.
 
-With more than one year experience and expertise in Data Analytics and a solid foundation in data manipulation,visualization and statistical analysis skills
-I am so passionate about bringing data fluency and technology together to elevate, build and expand organizations by creating impact through providing professional analysis that enhance desicion making. 
+With over a year of experience and expertise in Data Analytics, along with a solid foundation in data manipulation, visualization, and statistical analysis skills.	
+I am passionate about combining data fluency and technology to elevate, develop, and expand organizations by making an impact through professional analysis that improves decision-making. 
 
-:tool## SKILLS and TOOLS
+## SKILLS and TOOLS
 * **DATA ANALYTICS AND VISUALIZATIONS**
   * Excel
   * Power Bi
